@@ -88,6 +88,5 @@ The dashboard includes interactive filters for:
 - **Expected ROI**: Medium-High, leverages existing channel strength
 
 
-
-##Conclusion##
+## Conclusion 
 Vrinda Store should primarily invest in strengthening its core strength (adult women + ethnic wear + top 5 states + Amazon channel) while strategically testing new markets and segments.
